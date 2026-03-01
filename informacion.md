@@ -1,5 +1,5 @@
 # **Competencia**
-Para ingresar a la competencia dale click a [link](https://www.kaggle.com/competitions/playground-series-s6e2/overview)
+Para ingresar a la competencia dale click a [link](https://www.kaggle.com/competitions/playground-series-s6e3)
 
 ## ** Actualización del README**
 
